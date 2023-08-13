@@ -1,0 +1,6 @@
+## Interface: 100107
+## Title: HideActionBar1UnusedSlots
+## Author: Moltebene
+## Version: 1.1
+
+main.lua
